@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/pret-a-porter/voting-server/issues"
   },
-  "homepage": "https://github.com/pret-a-porter/voting-server"
+  "homepage": "https://github.com/pret-a-porter/voting-server",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.2",
+    "babel-preset-es2015": "^6.13.2",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
 }
